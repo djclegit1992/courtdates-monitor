@@ -1,0 +1,394 @@
+<!-- ============================================================
+     COURT DATES MONITOR - WordPress Custom HTML Block
+     Toronto Superior Court of Justice Calendly availability
+     ES5 only. No AND-AND or OR-OR operators. IIFE-wrapped. CSS isolated.
+     CONFIG: set the three values at the top of the script.
+     ============================================================ -->
+
+<div id="crtdm-root-2026">
+  <div id="crtdm-inner">
+    <div id="crtdm-header">
+      <div id="crtdm-title">Toronto Court Booking Monitor</div>
+      <div id="crtdm-subtitle">First open hearing dates on the Superior Court of Justice booking pages, checked every 30 minutes.</div>
+      <div id="crtdm-updated"></div>
+    </div>
+    <div id="crtdm-banner"></div>
+    <div id="crtdm-list">
+      <div class="crtdm-loading">Loading current availability...</div>
+    </div>
+    <div id="crtdm-subscribe">
+      <div class="crtdm-sub-title">Get notified when new dates open</div>
+      <div class="crtdm-sub-desc">Choose the hearing types you care about. We email you only when earlier or new dates appear.</div>
+      <div id="crtdm-sub-types"></div>
+      <input type="email" id="crtdm-sub-email" placeholder="you@example.com" />
+      <label id="crtdm-consent-row">
+        <input type="checkbox" id="crtdm-consent" />
+        <span>I consent to receiving email alerts about court booking availability from Courtready. I can unsubscribe at any time.</span>
+      </label>
+      <button type="button" id="crtdm-sub-btn">Subscribe to alerts</button>
+      <div id="crtdm-sub-msg"></div>
+    </div>
+  </div>
+</div>
+
+<style>
+#crtdm-root-2026 { all: initial !important; display: block !important; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important; color: #2f2f2f !important; box-sizing: border-box !important; max-width: 760px !important; margin: 0 auto !important; }
+#crtdm-root-2026 * { box-sizing: border-box !important; font-family: inherit !important; }
+#crtdm-inner { display: block !important; padding: 8px 0 !important; }
+#crtdm-header { display: block !important; margin-bottom: 20px !important; }
+#crtdm-title { display: block !important; font-size: 24px !important; font-weight: 700 !important; color: #2f2f2f !important; line-height: 1.3 !important; }
+#crtdm-subtitle { display: block !important; font-size: 14px !important; color: #666666 !important; margin-top: 6px !important; line-height: 1.5 !important; }
+#crtdm-updated { display: block !important; font-size: 12px !important; color: #999999 !important; margin-top: 8px !important; }
+#crtdm-banner { display: none !important; padding: 12px 16px !important; border-radius: 6px !important; font-size: 14px !important; margin-bottom: 16px !important; line-height: 1.5 !important; }
+#crtdm-list { display: block !important; }
+.crtdm-loading { display: block !important; padding: 24px !important; text-align: center !important; color: #999999 !important; font-size: 14px !important; }
+.crtdm-card { display: block !important; border: 1px solid #e5e5e5 !important; border-radius: 8px !important; padding: 16px !important; margin-bottom: 12px !important; background: #ffffff !important; }
+.crtdm-card-top { display: flex !important; justify-content: space-between !important; align-items: flex-start !important; flex-wrap: wrap !important; }
+.crtdm-card-name { display: block !important; font-size: 16px !important; font-weight: 700 !important; color: #2f2f2f !important; line-height: 1.4 !important; padding-right: 8px !important; }
+.crtdm-badge-new { display: inline-block !important; background: #e28a64 !important; color: #ffffff !important; font-size: 11px !important; font-weight: 700 !important; padding: 3px 8px !important; border-radius: 10px !important; letter-spacing: 0.5px !important; vertical-align: middle !important; margin-left: 8px !important; }
+.crtdm-card-date { display: block !important; font-size: 15px !important; color: #2f2f2f !important; margin-top: 8px !important; }
+.crtdm-card-date strong { font-weight: 700 !important; color: #2f2f2f !important; }
+.crtdm-days-pill { display: inline-block !important; background: #f5ede8 !important; color: #b05c33 !important; font-size: 12px !important; font-weight: 700 !important; padding: 3px 10px !important; border-radius: 10px !important; margin-left: 8px !important; vertical-align: middle !important; }
+.crtdm-card-meta { display: block !important; font-size: 12px !important; color: #999999 !important; margin-top: 6px !important; }
+.crtdm-book-btn { display: inline-block !important; background: #e28a64 !important; color: #ffffff !important; font-size: 13px !important; font-weight: 700 !important; padding: 8px 16px !important; border-radius: 5px !important; text-decoration: none !important; margin-top: 10px !important; border: none !important; cursor: pointer !important; }
+.crtdm-book-btn:hover { background: #d47a54 !important; color: #ffffff !important; text-decoration: none !important; }
+.crtdm-none { color: #999999 !important; font-style: italic !important; }
+#crtdm-subscribe { display: block !important; border: 2px solid #e28a64 !important; border-radius: 8px !important; padding: 20px !important; margin-top: 24px !important; background: #fdf9f7 !important; }
+.crtdm-sub-title { display: block !important; font-size: 18px !important; font-weight: 700 !important; color: #2f2f2f !important; }
+.crtdm-sub-desc { display: block !important; font-size: 13px !important; color: #666666 !important; margin-top: 4px !important; margin-bottom: 14px !important; line-height: 1.5 !important; }
+#crtdm-sub-types { display: block !important; margin-bottom: 12px !important; }
+.crtdm-type-label { display: inline-block !important; font-size: 13px !important; color: #2f2f2f !important; margin: 0 14px 8px 0 !important; cursor: pointer !important; }
+.crtdm-type-label input { margin-right: 5px !important; vertical-align: middle !important; cursor: pointer !important; }
+#crtdm-sub-email { display: block !important; width: 100% !important; padding: 10px 12px !important; font-size: 14px !important; border: 1px solid #cccccc !important; border-radius: 5px !important; background: #ffffff !important; color: #2f2f2f !important; margin-bottom: 10px !important; }
+#crtdm-consent-row { display: block !important; font-size: 12px !important; color: #666666 !important; line-height: 1.5 !important; margin-bottom: 12px !important; cursor: pointer !important; }
+#crtdm-consent-row input { margin-right: 6px !important; vertical-align: top !important; margin-top: 2px !important; cursor: pointer !important; }
+#crtdm-consent-row span { display: inline-block !important; width: calc(100% - 26px) !important; vertical-align: top !important; }
+#crtdm-sub-btn { display: inline-block !important; background: #2f2f2f !important; color: #ffffff !important; font-size: 14px !important; font-weight: 700 !important; padding: 10px 22px !important; border: none !important; border-radius: 5px !important; cursor: pointer !important; }
+#crtdm-sub-btn:hover { background: #1a1a1a !important; }
+#crtdm-sub-btn:disabled { background: #999999 !important; cursor: default !important; }
+#crtdm-sub-msg { display: block !important; font-size: 13px !important; margin-top: 10px !important; line-height: 1.5 !important; }
+@media (max-width: 480px) {
+  #crtdm-title { font-size: 20px !important; }
+  .crtdm-card-top { display: block !important; }
+}
+</style>
+
+<script>
+(function () {
+  'use strict';
+
+  /* ================= CONFIG: EDIT THESE THREE VALUES ================= */
+  var SNAPSHOT_URL = 'https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO/main/data/snapshot.json';
+  var SUPABASE_URL = 'https://YOUR_PROJECT.supabase.co';
+  var SUPABASE_ANON_KEY = 'YOUR_SUPABASE_PUBLISHABLE_KEY';
+  /* =================================================================== */
+
+  var NEW_BADGE_DAYS = 7;
+
+  function byId(id) {
+    return document.getElementById(id);
+  }
+
+  function formatDate(isoDate) {
+    var parts = isoDate.split('-');
+    var d = new Date(Date.UTC(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10)));
+    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    return days[d.getUTCDay()] + ', ' + months[d.getUTCMonth()] + ' ' + d.getUTCDate() + ', ' + parts[0];
+  }
+
+  function daysFromNow(isoDate) {
+    var parts = isoDate.split('-');
+    var target = Date.UTC(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
+    var now = new Date();
+    var today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
+    return Math.round((target - today) / 86400000);
+  }
+
+  function isRecentlyImproved(isoTimestamp) {
+    if (!isoTimestamp) {
+      return false;
+    }
+    var then = new Date(isoTimestamp).getTime();
+    if (isNaN(then)) {
+      return false;
+    }
+    var ageDays = (new Date().getTime() - then) / 86400000;
+    return ageDays <= NEW_BADGE_DAYS;
+  }
+
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, '&#38;')
+      .replace(/</g, '&#60;')
+      .replace(/>/g, '&#62;')
+      .replace(/"/g, '&#34;');
+  }
+
+  function showBanner(text, isError) {
+    var banner = byId('crtdm-banner');
+    banner.textContent = text;
+    if (isError) {
+      banner.style.setProperty('background', '#fdecea', 'important');
+      banner.style.setProperty('color', '#a33a2a', 'important');
+    } else {
+      banner.style.setProperty('background', '#edf7ed', 'important');
+      banner.style.setProperty('color', '#2e6b34', 'important');
+    }
+    banner.style.setProperty('display', 'block', 'important');
+  }
+
+  function getJson(url, onSuccess, onError) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.onreadystatechange = function () {
+      if (xhr.readyState !== 4) {
+        return;
+      }
+      if (xhr.status >= 200) {
+        if (xhr.status < 300) {
+          try {
+            onSuccess(JSON.parse(xhr.responseText));
+          } catch (e) {
+            onError('Could not parse availability data.');
+          }
+          return;
+        }
+      }
+      onError('Could not load availability data (HTTP ' + xhr.status + ').');
+    };
+    xhr.onerror = function () {
+      onError('Network error loading availability data.');
+    };
+    xhr.send();
+  }
+
+  function renderSnapshot(snapshot) {
+    var list = byId('crtdm-list');
+    var types = snapshot.event_types.slice();
+
+    types.sort(function (a, b) {
+      var af = a.first_available;
+      var bf = b.first_available;
+      if (af === null) {
+        if (bf === null) {
+          return 0;
+        }
+        return 1;
+      }
+      if (bf === null) {
+        return -1;
+      }
+      if (af < bf) {
+        return -1;
+      }
+      if (af > bf) {
+        return 1;
+      }
+      return 0;
+    });
+
+    var html = '';
+    var i;
+    for (i = 0; i < types.length; i++) {
+      var t = types[i];
+      var badge = '';
+      if (isRecentlyImproved(t.last_improved_at)) {
+        badge = '<span class="crtdm-badge-new">NEW EARLIER DATE</span>';
+      }
+
+      var dateLine;
+      if (t.first_available) {
+        var days = daysFromNow(t.first_available);
+        var pillText;
+        if (days === 0) {
+          pillText = 'today';
+        } else if (days === 1) {
+          pillText = 'tomorrow';
+        } else {
+          pillText = 'in ' + days + ' days';
+        }
+        dateLine =
+          'First open date: <strong>' + formatDate(t.first_available) + '</strong>' +
+          '<span class="crtdm-days-pill">' + pillText + '</span>';
+      } else if (t.error) {
+        dateLine = '<span class="crtdm-none">Could not check this page on the last run.</span>';
+      } else {
+        dateLine = '<span class="crtdm-none">No open dates found in the next ' + snapshot.horizon_months + ' months.</span>';
+      }
+
+      var countMeta = '';
+      if (t.available_count > 0) {
+        countMeta = '<div class="crtdm-card-meta">' + t.available_count + ' open date' + (t.available_count === 1 ? '' : 's') + ' in the next ' + snapshot.horizon_months + ' months</div>';
+      }
+
+      html +=
+        '<div class="crtdm-card">' +
+        '<div class="crtdm-card-top"><div class="crtdm-card-name">' + escapeHtml(t.name) + badge + '</div></div>' +
+        '<div class="crtdm-card-date">' + dateLine + '</div>' +
+        countMeta +
+        '<a class="crtdm-book-btn" href="' + escapeHtml(t.booking_url) + '" target="_blank" rel="noopener">Book on Calendly</a>' +
+        '</div>';
+    }
+    list.innerHTML = html;
+
+    var updated = byId('crtdm-updated');
+    var gen = new Date(snapshot.generated_at);
+    updated.textContent = 'Last checked: ' + gen.toLocaleString();
+
+    renderTypeCheckboxes(types);
+  }
+
+  function renderTypeCheckboxes(types) {
+    var container = byId('crtdm-sub-types');
+    var html = '<label class="crtdm-type-label"><input type="checkbox" value="all" checked /> All hearing types</label>';
+    var i;
+    for (i = 0; i < types.length; i++) {
+      html += '<label class="crtdm-type-label"><input type="checkbox" value="' + escapeHtml(types[i].slug) + '" /> ' + escapeHtml(types[i].name) + '</label>';
+    }
+    container.innerHTML = html;
+
+    // If a specific type is ticked, untick "all"; if "all" is ticked, untick the rest.
+    var inputs = container.getElementsByTagName('input');
+    var j;
+    for (j = 0; j < inputs.length; j++) {
+      inputs[j].onchange = function () {
+        var k;
+        if (this.value === 'all') {
+          if (this.checked) {
+            for (k = 0; k < inputs.length; k++) {
+              if (inputs[k].value !== 'all') {
+                inputs[k].checked = false;
+              }
+            }
+          }
+        } else {
+          if (this.checked) {
+            for (k = 0; k < inputs.length; k++) {
+              if (inputs[k].value === 'all') {
+                inputs[k].checked = false;
+              }
+            }
+          }
+        }
+      };
+    }
+  }
+
+  function getSelectedTypes() {
+    var inputs = byId('crtdm-sub-types').getElementsByTagName('input');
+    var selected = [];
+    var i;
+    for (i = 0; i < inputs.length; i++) {
+      if (inputs[i].checked) {
+        selected.push(inputs[i].value);
+      }
+    }
+    return selected;
+  }
+
+  function subscribe() {
+    var email = byId('crtdm-sub-email').value.replace(/^\s+/, '').replace(/\s+$/, '');
+    var consent = byId('crtdm-consent').checked;
+    var msg = byId('crtdm-sub-msg');
+    var btn = byId('crtdm-sub-btn');
+    var selected = getSelectedTypes();
+
+    msg.style.setProperty('color', '#a33a2a', 'important');
+    if (email.indexOf('@') === -1) {
+      msg.textContent = 'Please enter a valid email address.';
+      return;
+    }
+    if (!consent) {
+      msg.textContent = 'Please confirm your consent to receive email alerts.';
+      return;
+    }
+    if (selected.length === 0) {
+      msg.textContent = 'Please choose at least one hearing type, or select all.';
+      return;
+    }
+
+    btn.disabled = true;
+    msg.textContent = '';
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', SUPABASE_URL + '/rest/v1/courtdates_subscribers', true);
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.setRequestHeader('apikey', SUPABASE_ANON_KEY);
+    xhr.setRequestHeader('Authorization', 'Bearer ' + SUPABASE_ANON_KEY);
+    xhr.setRequestHeader('Prefer', 'return=minimal');
+    xhr.onreadystatechange = function () {
+      if (xhr.readyState !== 4) {
+        return;
+      }
+      btn.disabled = false;
+      if (xhr.status === 201) {
+        msg.style.setProperty('color', '#2e6b34', 'important');
+        msg.textContent = 'Subscribed. You will get an email when new dates open for your selected hearing types.';
+        byId('crtdm-sub-email').value = '';
+        return;
+      }
+      if (xhr.status === 409) {
+        msg.style.setProperty('color', '#2e6b34', 'important');
+        msg.textContent = 'This email is already subscribed. To change your selections, unsubscribe first using the link in any alert email, then subscribe again.';
+        return;
+      }
+      msg.textContent = 'Something went wrong (HTTP ' + xhr.status + '). Please try again.';
+    };
+    xhr.send(JSON.stringify({
+      email: email,
+      hearing_types: selected,
+      consent: true
+    }));
+  }
+
+  function handleUnsubscribeFromUrl() {
+    var query = window.location.search;
+    var match = query.match(/[?#!\x26]crtdm_unsub=([0-9a-fA-F-]{36})/);
+    if (!match) {
+      return;
+    }
+    var token = match[1];
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', SUPABASE_URL + '/rest/v1/rpc/courtdates_unsubscribe', true);
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.setRequestHeader('apikey', SUPABASE_ANON_KEY);
+    xhr.setRequestHeader('Authorization', 'Bearer ' + SUPABASE_ANON_KEY);
+    xhr.onreadystatechange = function () {
+      if (xhr.readyState !== 4) {
+        return;
+      }
+      if (xhr.status === 200) {
+        var removed = false;
+        try {
+          removed = JSON.parse(xhr.responseText) === true;
+        } catch (e) {
+          removed = false;
+        }
+        if (removed) {
+          showBanner('You have been unsubscribed from court date alerts.', false);
+        } else {
+          showBanner('This unsubscribe link has already been used or is no longer valid.', true);
+        }
+      } else {
+        showBanner('Unsubscribe failed (HTTP ' + xhr.status + '). Please try the link again.', true);
+      }
+    };
+    xhr.send(JSON.stringify({ tok: token }));
+  }
+
+  function init() {
+    byId('crtdm-sub-btn').onclick = subscribe;
+    handleUnsubscribeFromUrl();
+    getJson(SNAPSHOT_URL, renderSnapshot, function (errText) {
+      byId('crtdm-list').innerHTML = '<div class="crtdm-loading">' + errText + '</div>';
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
