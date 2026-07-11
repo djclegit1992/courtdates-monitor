@@ -1,0 +1,55 @@
+name: Court dates monitor
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub may delay scheduled runs by a few minutes.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Poll Calendly availability
+        run: node poller/poll.js
+        env:
+          PROFILE_SLUG: toronto-region
+          TIMEZONE: America/Toronto
+          HORIZON_MONTHS: "10"
+
+      - name: Send notifications
+        run: node poller/notify.js
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "courtdates-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
