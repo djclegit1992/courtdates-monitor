@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T20:43:10.980Z",
+  "generated_at": "2026-07-15T00:05:15.338Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -221,10 +221,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-03-15",
-      "available_count": 28,
+      "first_available": "2027-03-22",
+      "available_count": 27,
       "available_dates": [
-        "2027-03-15",
         "2027-03-22",
         "2027-03-24",
         "2027-03-26",
