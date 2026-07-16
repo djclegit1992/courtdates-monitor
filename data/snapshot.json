@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T06:38:02.455Z",
+  "generated_at": "2026-07-16T12:11:01.900Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -28,10 +28,9 @@
       "slug": "civil-practice-court-1",
       "uuid": "2e75bcf7-0f54-4620-90b6-844fe0698bf2",
       "booking_url": "https://calendly.com/toronto-region/civil-practice-court-1",
-      "first_available": "2026-10-06",
-      "available_count": 8,
+      "first_available": "2026-10-07",
+      "available_count": 7,
       "available_dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-13",
         "2026-10-14",
