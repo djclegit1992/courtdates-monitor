@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:38:16.097Z",
+  "generated_at": "2026-07-23T16:09:41.217Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -47,11 +47,10 @@
       "uuid": "45224f46-fe05-4b85-ad55-f6350e61d6f5",
       "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
       "first_available": "2026-08-17",
-      "available_count": 8,
+      "available_count": 7,
       "available_dates": [
         "2026-08-17",
         "2026-10-19",
-        "2026-10-26",
         "2026-11-02",
         "2026-11-16",
         "2026-11-23",
@@ -127,10 +126,11 @@
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
       "first_available": "2027-01-06",
-      "available_count": 36,
+      "available_count": 37,
       "available_dates": [
         "2027-01-06",
         "2027-01-07",
+        "2027-01-12",
         "2027-01-13",
         "2027-01-14",
         "2027-01-19",
@@ -267,10 +267,12 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-04-02",
-      "available_count": 18,
+      "first_available": "2027-02-05",
+      "available_count": 20,
       "available_dates": [
+        "2027-02-05",
         "2027-04-02",
+        "2027-04-05",
         "2027-04-07",
         "2027-04-09",
         "2027-04-12",
@@ -290,7 +292,7 @@
         "2027-04-30"
       ],
       "scanned_through": "2027-04-30",
-      "last_improved_at": "2026-07-11T16:43:59.057Z",
+      "last_improved_at": "2026-07-23T16:09:41.217Z",
       "error": null
     },
     {
@@ -324,11 +326,14 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": null,
-      "available_count": 0,
-      "available_dates": [],
+      "first_available": "2026-09-10",
+      "available_count": 2,
+      "available_dates": [
+        "2026-09-10",
+        "2026-10-29"
+      ],
       "scanned_through": "2027-04-30",
-      "last_improved_at": "2026-07-11T16:43:59.057Z",
+      "last_improved_at": "2026-07-23T16:09:41.217Z",
       "error": null
     },
     {
