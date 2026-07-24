@@ -1,5 +1,28 @@
 {
-  "generated_at": "2026-07-24T09:33:06.522Z",
-  "has_changes": false,
-  "changes": []
+  "generated_at": "2026-07-24T15:18:57.532Z",
+  "has_changes": true,
+  "changes": [
+    {
+      "slug": "civil-case-conference-2",
+      "name": "Civil Case Conference (before a Judge) - Tues,Wed,Thurs",
+      "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
+      "old_first": "2027-01-06",
+      "new_first": "2026-07-29",
+      "improved": true,
+      "added_dates": [
+        "2026-07-29"
+      ]
+    },
+    {
+      "slug": "express-court",
+      "name": "Express Court (Short Motions before an Associate Judge)",
+      "booking_url": "https://calendly.com/toronto-region/express-court",
+      "old_first": null,
+      "new_first": "2026-09-01",
+      "improved": true,
+      "added_dates": [
+        "2026-09-01"
+      ]
+    }
+  ]
 }
