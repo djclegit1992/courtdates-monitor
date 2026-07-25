@@ -1,29 +1,5 @@
 {
-  "generated_at": "2026-07-24T20:05:57.328Z",
-  "has_changes": true,
-  "changes": [
-    {
-      "slug": "express-court",
-      "name": "Express Court (Short Motions before an Associate Judge)",
-      "booking_url": "https://calendly.com/toronto-region/express-court",
-      "old_first": "2026-09-01",
-      "new_first": "2026-08-20",
-      "improved": true,
-      "added_dates": [
-        "2026-08-20",
-        "2026-09-08"
-      ]
-    },
-    {
-      "slug": "aj-remove-solicitor",
-      "name": "Removal of Solicitor Motions (Associate Judge)",
-      "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "old_first": null,
-      "new_first": "2026-09-02",
-      "improved": true,
-      "added_dates": [
-        "2026-09-02"
-      ]
-    }
-  ]
+  "generated_at": "2026-07-25T00:14:47.041Z",
+  "has_changes": false,
+  "changes": []
 }
