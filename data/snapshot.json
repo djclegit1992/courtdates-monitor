@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:51:36.068Z",
+  "generated_at": "2026-07-27T17:21:20.098Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -123,10 +123,9 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2026-07-29",
-      "available_count": 38,
+      "first_available": "2027-01-06",
+      "available_count": 37,
       "available_dates": [
-        "2026-07-29",
         "2027-01-06",
         "2027-01-07",
         "2027-01-12",
@@ -316,11 +315,13 @@
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
       "first_available": "2026-08-20",
-      "available_count": 3,
+      "available_count": 5,
       "available_dates": [
         "2026-08-20",
-        "2026-09-01",
-        "2026-09-08"
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-15"
       ],
       "scanned_through": "2027-04-30",
       "last_improved_at": "2026-07-24T20:05:57.328Z",
@@ -331,10 +332,11 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": "2026-09-02",
-      "available_count": 1,
+      "first_available": "2026-09-11",
+      "available_count": 2,
       "available_dates": [
-        "2026-09-02"
+        "2026-09-11",
+        "2026-10-23"
       ],
       "scanned_through": "2027-04-30",
       "last_improved_at": "2026-07-24T20:05:57.328Z",
@@ -373,11 +375,10 @@
       "uuid": "f48fd73b-ccd4-4f6d-afa7-1b0a247a219e",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
       "first_available": "2026-09-21",
-      "available_count": 9,
+      "available_count": 8,
       "available_dates": [
         "2026-09-21",
         "2026-09-28",
-        "2026-11-02",
         "2026-11-09",
         "2026-11-16",
         "2026-11-23",
