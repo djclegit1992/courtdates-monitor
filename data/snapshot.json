@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:55:32.974Z",
+  "generated_at": "2026-07-28T20:37:46.829Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -10,12 +10,11 @@
       "uuid": "4c149641-d03e-4c57-94a5-62531b5a17b5",
       "booking_url": "https://calendly.com/toronto-region/cpc",
       "first_available": "2026-10-20",
-      "available_count": 4,
+      "available_count": 3,
       "available_dates": [
         "2026-10-20",
         "2026-10-21",
-        "2026-10-27",
-        "2026-10-28"
+        "2026-10-27"
       ],
       "scanned_through": "2027-04-30",
       "last_improved_at": "2026-07-11T16:43:59.057Z",
@@ -123,9 +122,10 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2027-01-06",
-      "available_count": 37,
+      "first_available": "2026-12-15",
+      "available_count": 38,
       "available_dates": [
+        "2026-12-15",
         "2027-01-06",
         "2027-01-07",
         "2027-01-12",
@@ -165,7 +165,7 @@
         "2027-03-31"
       ],
       "scanned_through": "2027-04-30",
-      "last_improved_at": "2026-07-24T15:18:57.532Z",
+      "last_improved_at": "2026-07-28T20:37:46.829Z",
       "error": null
     },
     {
@@ -173,11 +173,9 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2026-09-16",
-      "available_count": 44,
+      "first_available": "2027-03-02",
+      "available_count": 42,
       "available_dates": [
-        "2026-09-16",
-        "2027-03-01",
         "2027-03-02",
         "2027-03-03",
         "2027-03-04",
@@ -231,10 +229,9 @@
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
       "first_available": "2027-02-18",
-      "available_count": 18,
+      "available_count": 17,
       "available_dates": [
         "2027-02-18",
-        "2027-02-23",
         "2027-02-25",
         "2027-03-02",
         "2027-03-04",
@@ -314,15 +311,12 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2026-08-20",
-      "available_count": 6,
+      "first_available": "2026-09-09",
+      "available_count": 3,
       "available_dates": [
-        "2026-08-20",
         "2026-09-09",
         "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-21"
+        "2026-09-14"
       ],
       "scanned_through": "2027-04-30",
       "last_improved_at": "2026-07-24T20:05:57.328Z",
@@ -333,11 +327,9 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": "2026-09-15",
-      "available_count": 1,
-      "available_dates": [
-        "2026-09-15"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-04-30",
       "last_improved_at": "2026-07-28T15:55:32.974Z",
       "error": null
