@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:19:57.300Z",
+  "generated_at": "2026-07-29T16:05:35.982Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -228,9 +228,10 @@
       "slug": "aj-motion-under-75-person",
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "first_available": "2027-02-18",
-      "available_count": 17,
+      "first_available": "2026-09-18",
+      "available_count": 18,
       "available_dates": [
+        "2026-09-18",
         "2027-02-18",
         "2027-02-25",
         "2027-03-02",
@@ -250,7 +251,7 @@
         "2027-04-29"
       ],
       "scanned_through": "2027-04-30",
-      "last_improved_at": "2026-07-27T21:43:49.186Z",
+      "last_improved_at": "2026-07-29T16:05:35.982Z",
       "error": null
     },
     {
@@ -259,11 +260,10 @@
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
       "first_available": "2027-04-07",
-      "available_count": 16,
+      "available_count": 15,
       "available_dates": [
         "2027-04-07",
         "2027-04-12",
-        "2027-04-13",
         "2027-04-14",
         "2027-04-15",
         "2027-04-16",
@@ -311,15 +311,20 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2026-09-09",
-      "available_count": 3,
+      "first_available": "2026-08-24",
+      "available_count": 8,
       "available_dates": [
+        "2026-08-24",
         "2026-09-09",
         "2026-09-11",
-        "2026-09-14"
+        "2026-09-14",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-10-06",
+        "2026-10-28"
       ],
       "scanned_through": "2027-04-30",
-      "last_improved_at": "2026-07-24T20:05:57.328Z",
+      "last_improved_at": "2026-07-29T16:05:35.982Z",
       "error": null
     },
     {
@@ -327,11 +332,13 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": null,
-      "available_count": 0,
-      "available_dates": [],
+      "first_available": "2026-09-22",
+      "available_count": 1,
+      "available_dates": [
+        "2026-09-22"
+      ],
       "scanned_through": "2027-04-30",
-      "last_improved_at": "2026-07-28T15:55:32.974Z",
+      "last_improved_at": "2026-07-29T16:05:35.982Z",
       "error": null
     },
     {
