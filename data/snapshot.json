@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T10:00:33.176Z",
+  "generated_at": "2026-07-30T16:14:20.469Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -121,9 +121,10 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2027-01-06",
-      "available_count": 37,
+      "first_available": "2026-08-04",
+      "available_count": 38,
       "available_dates": [
+        "2026-08-04",
         "2027-01-06",
         "2027-01-07",
         "2027-01-12",
@@ -163,7 +164,7 @@
         "2027-03-31"
       ],
       "scanned_through": "2027-04-30",
-      "last_improved_at": "2026-07-28T20:37:46.829Z",
+      "last_improved_at": "2026-07-30T16:14:20.469Z",
       "error": null
     },
     {
@@ -225,10 +226,9 @@
       "slug": "aj-motion-under-75-person",
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "first_available": "2027-02-25",
-      "available_count": 16,
+      "first_available": "2027-03-02",
+      "available_count": 15,
       "available_dates": [
-        "2027-02-25",
         "2027-03-02",
         "2027-03-04",
         "2027-03-09",
@@ -281,10 +281,9 @@
       "slug": "aj-motion-90-120-person",
       "uuid": "7c4e8850-162e-49b8-91af-8c6dfe0321ad",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-person",
-      "first_available": "2027-03-30",
-      "available_count": 10,
+      "first_available": "2027-04-01",
+      "available_count": 9,
       "available_dates": [
-        "2027-03-30",
         "2027-04-01",
         "2027-04-06",
         "2027-04-08",
@@ -305,17 +304,15 @@
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
       "first_available": "2026-08-24",
-      "available_count": 9,
+      "available_count": 7,
       "available_dates": [
         "2026-08-24",
         "2026-09-11",
-        "2026-09-14",
         "2026-09-18",
         "2026-09-21",
         "2026-09-25",
         "2026-10-06",
-        "2026-10-26",
-        "2026-10-28"
+        "2026-10-26"
       ],
       "scanned_through": "2027-04-30",
       "last_improved_at": "2026-07-29T16:05:35.982Z",
