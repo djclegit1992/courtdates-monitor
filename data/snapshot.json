@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:46:21.373Z",
+  "generated_at": "2026-08-02T15:47:22.804Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -9,10 +9,9 @@
       "slug": "cpc",
       "uuid": "4c149641-d03e-4c57-94a5-62531b5a17b5",
       "booking_url": "https://calendly.com/toronto-region/cpc",
-      "first_available": "2026-10-21",
-      "available_count": 2,
+      "first_available": "2026-10-27",
+      "available_count": 1,
       "available_dates": [
-        "2026-10-21",
         "2026-10-27"
       ],
       "scanned_through": "2027-05-31",
