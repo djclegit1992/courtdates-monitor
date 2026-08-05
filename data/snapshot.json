@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:06:05.745Z",
+  "generated_at": "2026-08-05T19:04:14.991Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -81,9 +81,10 @@
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
       "first_available": "2026-08-07",
-      "available_count": 23,
+      "available_count": 24,
       "available_dates": [
         "2026-08-07",
+        "2026-08-10",
         "2027-01-08",
         "2027-01-11",
         "2027-01-15",
@@ -270,9 +271,10 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-04-14",
-      "available_count": 24,
+      "first_available": "2027-03-29",
+      "available_count": 25,
       "available_dates": [
+        "2027-03-29",
         "2027-04-14",
         "2027-04-15",
         "2027-04-16",
@@ -299,7 +301,7 @@
         "2027-05-31"
       ],
       "scanned_through": "2027-05-31",
-      "last_improved_at": "2026-07-23T16:09:41.217Z",
+      "last_improved_at": "2026-08-05T19:04:14.991Z",
       "error": null
     },
     {
@@ -308,14 +310,13 @@
       "uuid": "7c4e8850-162e-49b8-91af-8c6dfe0321ad",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-person",
       "first_available": "2027-04-08",
-      "available_count": 14,
+      "available_count": 13,
       "available_dates": [
         "2027-04-08",
         "2027-04-13",
         "2027-04-15",
         "2027-04-20",
         "2027-04-22",
-        "2027-04-27",
         "2027-04-29",
         "2027-05-04",
         "2027-05-11",
@@ -335,10 +336,9 @@
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
       "first_available": "2026-08-24",
-      "available_count": 14,
+      "available_count": 13,
       "available_dates": [
         "2026-08-24",
-        "2026-09-11",
         "2026-11-03",
         "2026-11-17",
         "2026-11-19",
