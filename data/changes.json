@@ -1,17 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:58:08.018Z",
-  "has_changes": true,
-  "changes": [
-    {
-      "slug": "civil-case-conference",
-      "name": "Civil Case Conference (before a Judge) - Mon, Fri",
-      "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "old_first": "2027-01-04",
-      "new_first": "2026-08-07",
-      "improved": true,
-      "added_dates": [
-        "2026-08-07"
-      ]
-    }
-  ]
+  "generated_at": "2026-08-05T06:14:40.987Z",
+  "has_changes": false,
+  "changes": []
 }
