@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:44:47.091Z",
+  "generated_at": "2026-08-06T08:06:57.143Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -272,10 +272,9 @@
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
       "first_available": "2027-03-29",
-      "available_count": 25,
+      "available_count": 24,
       "available_dates": [
         "2027-03-29",
-        "2027-04-14",
         "2027-04-15",
         "2027-04-16",
         "2027-04-19",
@@ -335,10 +334,9 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2026-08-24",
-      "available_count": 13,
+      "first_available": "2026-11-03",
+      "available_count": 12,
       "available_dates": [
-        "2026-08-24",
         "2026-11-03",
         "2026-11-17",
         "2026-11-19",
