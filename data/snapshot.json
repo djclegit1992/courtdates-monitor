@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:26:01.239Z",
+  "generated_at": "2026-08-12T13:59:53.096Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -108,10 +108,9 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2026-08-13",
-      "available_count": 34,
+      "first_available": "2026-08-26",
+      "available_count": 33,
       "available_dates": [
-        "2026-08-13",
         "2026-08-26",
         "2027-01-13",
         "2027-01-19",
@@ -156,10 +155,9 @@
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
       "first_available": "2026-12-08",
-      "available_count": 56,
+      "available_count": 55,
       "available_dates": [
         "2026-12-08",
-        "2026-12-11",
         "2026-12-14",
         "2026-12-16",
         "2027-03-11",
