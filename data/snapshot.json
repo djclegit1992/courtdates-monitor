@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:01:11.403Z",
+  "generated_at": "2026-08-13T15:31:31.374Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -105,9 +105,10 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2026-08-26",
-      "available_count": 33,
+      "first_available": "2026-08-18",
+      "available_count": 34,
       "available_dates": [
+        "2026-08-18",
         "2026-08-26",
         "2027-01-05",
         "2027-01-13",
@@ -143,7 +144,7 @@
         "2027-03-31"
       ],
       "scanned_through": "2027-05-31",
-      "last_improved_at": "2026-08-11T17:31:53.988Z",
+      "last_improved_at": "2026-08-13T15:31:31.374Z",
       "error": null
     },
     {
@@ -151,9 +152,10 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2027-03-12",
-      "available_count": 51,
+      "first_available": "2026-09-14",
+      "available_count": 52,
       "available_dates": [
+        "2026-09-14",
         "2027-03-12",
         "2027-03-15",
         "2027-03-16",
@@ -207,7 +209,7 @@
         "2027-05-31"
       ],
       "scanned_through": "2027-05-31",
-      "last_improved_at": "2026-08-10T20:52:59.811Z",
+      "last_improved_at": "2026-08-13T15:31:31.374Z",
       "error": null
     },
     {
@@ -215,11 +217,9 @@
       "slug": "aj-motion-under-75-person",
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "first_available": "2026-12-04",
-      "available_count": 20,
+      "first_available": "2027-03-30",
+      "available_count": 18,
       "available_dates": [
-        "2026-12-04",
-        "2027-03-11",
         "2027-03-30",
         "2027-04-01",
         "2027-04-03",
@@ -248,9 +248,10 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-04-21",
-      "available_count": 17,
+      "first_available": "2026-09-14",
+      "available_count": 18,
       "available_dates": [
+        "2026-09-14",
         "2027-04-21",
         "2027-04-23",
         "2027-04-26",
@@ -270,7 +271,7 @@
         "2027-05-31"
       ],
       "scanned_through": "2027-05-31",
-      "last_improved_at": "2026-08-05T19:04:14.991Z",
+      "last_improved_at": "2026-08-13T15:31:31.374Z",
       "error": null
     },
     {
