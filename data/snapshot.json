@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:35:24.998Z",
+  "generated_at": "2026-08-17T15:32:06.373Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -50,10 +50,9 @@
       "slug": "long-trial-scheduling-court",
       "uuid": "76447372-87d7-4d45-9cba-6e1d9c9f38a9",
       "booking_url": "https://calendly.com/toronto-region/long-trial-scheduling-court",
-      "first_available": "2027-01-27",
-      "available_count": 9,
+      "first_available": "2027-02-03",
+      "available_count": 8,
       "available_dates": [
-        "2027-01-27",
         "2027-02-03",
         "2027-02-10",
         "2027-02-17",
