@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:33:10.358Z",
+  "generated_at": "2026-08-18T20:31:58.340Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -103,10 +103,9 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2026-08-26",
-      "available_count": 30,
+      "first_available": "2027-01-12",
+      "available_count": 29,
       "available_dates": [
-        "2026-08-26",
         "2027-01-12",
         "2027-01-26",
         "2027-01-27",
@@ -292,12 +291,10 @@
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
       "first_available": "2026-08-31",
-      "available_count": 16,
+      "available_count": 14,
       "available_dates": [
         "2026-08-31",
-        "2026-09-25",
         "2026-10-02",
-        "2026-10-05",
         "2026-10-13",
         "2026-11-17",
         "2026-11-19",
