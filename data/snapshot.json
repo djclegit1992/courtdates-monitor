@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:36:26.344Z",
+  "generated_at": "2026-08-19T21:32:22.866Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -285,10 +285,9 @@
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
       "first_available": "2026-08-31",
-      "available_count": 14,
+      "available_count": 13,
       "available_dates": [
         "2026-08-31",
-        "2026-10-02",
         "2026-10-13",
         "2026-11-17",
         "2026-11-19",
