@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:00:07.390Z",
+  "generated_at": "2026-08-21T16:47:41.153Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -327,10 +327,9 @@
       "slug": "construction-lien-motion",
       "uuid": "beb950aa-bf00-4fa3-899b-67729e7e553f",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-motion",
-      "first_available": "2026-09-21",
-      "available_count": 13,
+      "first_available": "2026-09-28",
+      "available_count": 12,
       "available_dates": [
-        "2026-09-21",
         "2026-09-28",
         "2026-10-05",
         "2026-10-19",
