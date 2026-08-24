@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:11:27.904Z",
+  "generated_at": "2026-08-24T16:05:55.889Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -227,10 +227,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-05-12",
-      "available_count": 9,
+      "first_available": "2027-05-14",
+      "available_count": 8,
       "available_dates": [
-        "2027-05-12",
         "2027-05-14",
         "2027-05-17",
         "2027-05-19",
@@ -296,11 +295,10 @@
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
       "first_available": "2026-11-20",
-      "available_count": 14,
+      "available_count": 13,
       "available_dates": [
         "2026-11-20",
         "2026-11-23",
-        "2026-11-25",
         "2026-11-27",
         "2026-12-02",
         "2026-12-03",
