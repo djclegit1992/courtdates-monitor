@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T05:59:19.736Z",
+  "generated_at": "2026-08-31T13:34:18.819Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -201,10 +201,9 @@
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
       "first_available": "2027-04-01",
-      "available_count": 17,
+      "available_count": 16,
       "available_dates": [
         "2027-04-01",
-        "2027-04-03",
         "2027-04-06",
         "2027-04-08",
         "2027-04-13",
@@ -263,10 +262,9 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2026-10-26",
-      "available_count": 7,
+      "first_available": "2026-12-04",
+      "available_count": 6,
       "available_dates": [
-        "2026-10-26",
         "2026-12-04",
         "2026-12-07",
         "2026-12-08",
