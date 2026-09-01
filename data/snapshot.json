@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:54:58.949Z",
+  "generated_at": "2026-09-01T14:42:27.326Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -148,10 +148,9 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2027-04-05",
-      "available_count": 59,
+      "first_available": "2027-04-06",
+      "available_count": 58,
       "available_dates": [
-        "2027-04-05",
         "2027-04-06",
         "2027-04-07",
         "2027-04-08",
@@ -389,11 +388,10 @@
       "uuid": "f48fd73b-ccd4-4f6d-afa7-1b0a247a219e",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
       "first_available": "2026-11-16",
-      "available_count": 3,
+      "available_count": 2,
       "available_dates": [
         "2026-11-16",
-        "2026-11-23",
-        "2026-12-21"
+        "2026-11-23"
       ],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-07-11T16:43:59.057Z",
