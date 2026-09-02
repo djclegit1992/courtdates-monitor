@@ -1,5 +1,28 @@
 {
-  "generated_at": "2026-09-02T08:58:27.643Z",
-  "has_changes": false,
-  "changes": []
+  "generated_at": "2026-09-02T13:33:02.294Z",
+  "has_changes": true,
+  "changes": [
+    {
+      "slug": "cpc",
+      "name": "Civil Practice Court - Courtroom A",
+      "booking_url": "https://calendly.com/toronto-region/cpc",
+      "old_first": "2026-11-10",
+      "new_first": "2026-09-22",
+      "improved": true,
+      "added_dates": [
+        "2026-09-22"
+      ]
+    },
+    {
+      "slug": "express-court",
+      "name": "Express Court (Short Motions before an Associate Judge)",
+      "booking_url": "https://calendly.com/toronto-region/express-court",
+      "old_first": "2026-12-07",
+      "new_first": "2026-10-29",
+      "improved": true,
+      "added_dates": [
+        "2026-10-29"
+      ]
+    }
+  ]
 }
