@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:51:23.688Z",
+  "generated_at": "2026-09-03T23:55:40.994Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -262,10 +262,9 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": "2026-12-03",
-      "available_count": 9,
+      "first_available": "2026-12-04",
+      "available_count": 8,
       "available_dates": [
-        "2026-12-03",
         "2026-12-04",
         "2026-12-08",
         "2026-12-09",
