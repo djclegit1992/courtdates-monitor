@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:17:56.108Z",
+  "generated_at": "2026-09-03T19:23:33.750Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -28,10 +28,9 @@
       "slug": "civil-practice-court-1",
       "uuid": "2e75bcf7-0f54-4620-90b6-844fe0698bf2",
       "booking_url": "https://calendly.com/toronto-region/civil-practice-court-1",
-      "first_available": "2026-11-03",
-      "available_count": 6,
+      "first_available": "2026-11-10",
+      "available_count": 5,
       "available_dates": [
-        "2026-11-03",
         "2026-11-10",
         "2026-11-17",
         "2026-11-18",
@@ -144,10 +143,9 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2026-12-04",
-      "available_count": 17,
+      "first_available": "2027-04-12",
+      "available_count": 16,
       "available_dates": [
-        "2026-12-04",
         "2027-04-12",
         "2027-04-13",
         "2027-04-14",
