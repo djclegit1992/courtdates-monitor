@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:48:40.376Z",
+  "generated_at": "2026-09-04T22:17:31.411Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -305,13 +305,15 @@
       "slug": "construction-lien-first-tmc",
       "uuid": "f48fd73b-ccd4-4f6d-afa7-1b0a247a219e",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
-      "first_available": "2026-11-23",
-      "available_count": 1,
+      "first_available": "2026-09-14",
+      "available_count": 3,
       "available_dates": [
+        "2026-09-14",
+        "2026-09-28",
         "2026-11-23"
       ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-07-11T16:43:59.057Z",
+      "last_improved_at": "2026-09-04T22:17:31.411Z",
       "error": null
     }
   ]
