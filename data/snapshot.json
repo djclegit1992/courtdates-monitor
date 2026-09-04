@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:26:10.931Z",
+  "generated_at": "2026-09-04T17:00:17.116Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -81,9 +81,10 @@
       "slug": "civil-case-conference",
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "first_available": "2027-02-05",
-      "available_count": 14,
+      "first_available": "2027-01-04",
+      "available_count": 15,
       "available_dates": [
+        "2027-01-04",
         "2027-02-05",
         "2027-02-08",
         "2027-02-12",
@@ -100,7 +101,7 @@
         "2027-03-22"
       ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-09-02T17:49:45.227Z",
+      "last_improved_at": "2026-09-04T17:00:17.116Z",
       "error": null
     },
     {
@@ -108,9 +109,10 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2027-02-09",
-      "available_count": 21,
+      "first_available": "2026-09-09",
+      "available_count": 22,
       "available_dates": [
+        "2026-09-09",
         "2027-02-09",
         "2027-02-11",
         "2027-02-16",
@@ -134,7 +136,7 @@
         "2027-03-31"
       ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-08-27T21:07:44.552Z",
+      "last_improved_at": "2026-09-04T17:00:17.116Z",
       "error": null
     },
     {
@@ -185,7 +187,7 @@
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
       "first_available": "2027-06-03",
-      "available_count": 19,
+      "available_count": 18,
       "available_dates": [
         "2027-06-03",
         "2027-06-04",
@@ -194,7 +196,6 @@
         "2027-06-10",
         "2027-06-11",
         "2027-06-14",
-        "2027-06-15",
         "2027-06-16",
         "2027-06-17",
         "2027-06-18",
