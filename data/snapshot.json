@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:39:23.746Z",
+  "generated_at": "2026-09-05T22:45:57.891Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -109,10 +109,9 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2027-02-11",
-      "available_count": 20,
+      "first_available": "2027-02-16",
+      "available_count": 19,
       "available_dates": [
-        "2027-02-11",
         "2027-02-16",
         "2027-02-17",
         "2027-02-23",
