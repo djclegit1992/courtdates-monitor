@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:42:01.482Z",
+  "generated_at": "2026-09-11T20:51:40.584Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -131,11 +131,10 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2027-04-28",
-      "available_count": 8,
+      "first_available": "2027-02-22",
+      "available_count": 7,
       "available_dates": [
-        "2027-04-28",
-        "2027-04-30",
+        "2027-02-22",
         "2027-05-10",
         "2027-05-12",
         "2027-05-21",
@@ -144,7 +143,7 @@
         "2027-06-28"
       ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-09-10T15:06:52.599Z",
+      "last_improved_at": "2026-09-11T20:51:40.584Z",
       "error": null
     },
     {
@@ -197,7 +196,7 @@
       "available_count": 14,
       "available_dates": [
         "2027-01-14",
-        "2027-01-26",
+        "2027-03-11",
         "2027-05-20",
         "2027-05-25",
         "2027-05-27",
@@ -238,10 +237,10 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": "2026-12-09",
+      "first_available": "2026-10-14",
       "available_count": 6,
       "available_dates": [
-        "2026-12-09",
+        "2026-10-14",
         "2026-12-10",
         "2026-12-11",
         "2026-12-14",
@@ -249,7 +248,7 @@
         "2026-12-18"
       ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-08-16T18:38:56.763Z",
+      "last_improved_at": "2026-09-11T20:51:40.584Z",
       "error": null
     },
     {
