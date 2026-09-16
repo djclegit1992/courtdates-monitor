@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:48:00.815Z",
+  "generated_at": "2026-09-16T22:02:06.696Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -21,11 +21,9 @@
       "slug": "civil-practice-court-1",
       "uuid": "2e75bcf7-0f54-4620-90b6-844fe0698bf2",
       "booking_url": "https://calendly.com/toronto-region/civil-practice-court-1",
-      "first_available": "2026-11-24",
-      "available_count": 1,
-      "available_dates": [
-        "2026-11-24"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-08-27T21:07:44.552Z",
       "error": null
@@ -172,10 +170,9 @@
       "slug": "aj-motion-90-120-person",
       "uuid": "7c4e8850-162e-49b8-91af-8c6dfe0321ad",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-person",
-      "first_available": "2027-05-27",
-      "available_count": 9,
+      "first_available": "2027-06-03",
+      "available_count": 8,
       "available_dates": [
-        "2027-05-27",
         "2027-06-03",
         "2027-06-08",
         "2027-06-10",
