@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:39:57.422Z",
+  "generated_at": "2026-09-18T19:30:06.477Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -66,10 +66,9 @@
       "slug": "civil-case-conference",
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "first_available": "2027-02-15",
-      "available_count": 11,
+      "first_available": "2027-02-19",
+      "available_count": 10,
       "available_dates": [
-        "2027-02-15",
         "2027-02-19",
         "2027-02-22",
         "2027-02-26",
@@ -186,11 +185,13 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": null,
-      "available_count": 0,
-      "available_dates": [],
+      "first_available": "2026-10-23",
+      "available_count": 1,
+      "available_dates": [
+        "2026-10-23"
+      ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-09-02T13:33:02.294Z",
+      "last_improved_at": "2026-09-18T19:30:06.477Z",
       "error": null
     },
     {
@@ -198,10 +199,9 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": "2026-12-10",
-      "available_count": 3,
+      "first_available": "2026-12-17",
+      "available_count": 2,
       "available_dates": [
-        "2026-12-10",
         "2026-12-17",
         "2026-12-18"
       ],
