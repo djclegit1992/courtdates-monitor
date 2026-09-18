@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-09-18T19:30:06.477Z",
+  "generated_at": "2026-09-18T21:49:22.020Z",
   "has_changes": true,
   "changes": [
     {
       "slug": "express-court",
       "name": "Express Court (Short Motions before an Associate Judge)",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "old_first": null,
+      "old_first": "2026-10-23",
       "new_first": "2026-10-23",
-      "improved": true,
+      "improved": false,
       "added_dates": [
-        "2026-10-23"
+        "2026-10-26",
+        "2026-10-28"
       ]
     }
   ]
