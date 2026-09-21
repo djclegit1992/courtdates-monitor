@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:29:06.910Z",
+  "generated_at": "2026-09-21T19:42:29.653Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -34,9 +34,10 @@
       "uuid": "45224f46-fe05-4b85-ad55-f6350e61d6f5",
       "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
       "first_available": "2026-12-07",
-      "available_count": 1,
+      "available_count": 2,
       "available_dates": [
-        "2026-12-07"
+        "2026-12-07",
+        "2027-01-11"
       ],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-07-21T20:44:13.129Z",
@@ -66,10 +67,9 @@
       "slug": "civil-case-conference",
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "first_available": "2026-09-25",
-      "available_count": 10,
+      "first_available": "2027-02-22",
+      "available_count": 9,
       "available_dates": [
-        "2026-09-25",
         "2027-02-22",
         "2027-02-26",
         "2027-03-01",
@@ -140,13 +140,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-04-07",
-      "available_count": 11,
+      "first_available": "2027-06-21",
+      "available_count": 7,
       "available_dates": [
-        "2027-04-07",
-        "2027-06-14",
-        "2027-06-17",
-        "2027-06-18",
         "2027-06-21",
         "2027-06-22",
         "2027-06-23",
@@ -183,11 +179,9 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2026-10-23",
-      "available_count": 1,
-      "available_dates": [
-        "2026-10-23"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-09-18T19:30:06.477Z",
       "error": null
@@ -197,10 +191,9 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": "2026-12-17",
-      "available_count": 2,
+      "first_available": "2026-12-18",
+      "available_count": 1,
       "available_dates": [
-        "2026-12-17",
         "2026-12-18"
       ],
       "scanned_through": "2027-06-30",
@@ -212,10 +205,9 @@
       "slug": "construction-lien-motion",
       "uuid": "beb950aa-bf00-4fa3-899b-67729e7e553f",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-motion",
-      "first_available": "2026-10-05",
-      "available_count": 11,
+      "first_available": "2026-10-19",
+      "available_count": 10,
       "available_dates": [
-        "2026-10-05",
         "2026-10-19",
         "2026-10-26",
         "2026-11-02",
@@ -236,11 +228,9 @@
       "slug": "construction-lien-first-tmc",
       "uuid": "f48fd73b-ccd4-4f6d-afa7-1b0a247a219e",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
-      "first_available": "2026-09-28",
-      "available_count": 1,
-      "available_dates": [
-        "2026-09-28"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-09-04T22:17:31.411Z",
       "error": null

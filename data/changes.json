@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-21T14:29:06.910Z",
+  "generated_at": "2026-09-21T19:42:29.653Z",
   "has_changes": true,
   "changes": [
     {
-      "slug": "aj-motion-90-120-virtual",
-      "name": "Associate Judges Motions (90 Mins - 120 Mins) VIRTUAL",
-      "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "old_first": "2027-06-14",
-      "new_first": "2027-04-07",
-      "improved": true,
+      "slug": "to-be-spoken-to-court",
+      "name": "To Be Spoken To Court (Short Trial Scheduling)",
+      "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
+      "old_first": "2026-12-07",
+      "new_first": "2026-12-07",
+      "improved": false,
       "added_dates": [
-        "2027-04-07"
+        "2027-01-11"
       ]
     }
   ]
