@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:42:29.653Z",
+  "generated_at": "2026-09-21T23:09:51.886Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -67,10 +67,9 @@
       "slug": "civil-case-conference",
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "first_available": "2027-02-22",
-      "available_count": 9,
+      "first_available": "2027-02-26",
+      "available_count": 8,
       "available_dates": [
-        "2027-02-22",
         "2027-02-26",
         "2027-03-01",
         "2027-03-05",
@@ -141,10 +140,9 @@
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
       "first_available": "2027-06-21",
-      "available_count": 7,
+      "available_count": 6,
       "available_dates": [
         "2027-06-21",
-        "2027-06-22",
         "2027-06-23",
         "2027-06-24",
         "2027-06-25",
@@ -191,11 +189,9 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": "2026-12-18",
-      "available_count": 1,
-      "available_dates": [
-        "2026-12-18"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-09-11T20:51:40.584Z",
       "error": null

@@ -1,17 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:42:29.653Z",
-  "has_changes": true,
-  "changes": [
-    {
-      "slug": "to-be-spoken-to-court",
-      "name": "To Be Spoken To Court (Short Trial Scheduling)",
-      "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
-      "old_first": "2026-12-07",
-      "new_first": "2026-12-07",
-      "improved": false,
-      "added_dates": [
-        "2027-01-11"
-      ]
-    }
-  ]
+  "generated_at": "2026-09-21T23:09:51.886Z",
+  "has_changes": false,
+  "changes": []
 }
