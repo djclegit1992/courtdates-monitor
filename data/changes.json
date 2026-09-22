@@ -1,18 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:10:42.702Z",
-  "has_changes": true,
-  "changes": [
-    {
-      "slug": "aj-motion-under-75-person",
-      "name": "Associate Judges Motions (75 minutes & under) IN PERSON",
-      "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "old_first": null,
-      "new_first": "2027-01-19",
-      "improved": true,
-      "added_dates": [
-        "2027-01-19",
-        "2027-01-21"
-      ]
-    }
-  ]
+  "generated_at": "2026-09-22T23:45:23.715Z",
+  "has_changes": false,
+  "changes": []
 }
