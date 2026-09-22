@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T13:20:14.022Z",
+  "generated_at": "2026-09-22T17:43:50.274Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -67,10 +67,9 @@
       "slug": "civil-case-conference",
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "first_available": "2027-02-26",
-      "available_count": 8,
+      "first_available": "2027-03-01",
+      "available_count": 7,
       "available_dates": [
-        "2027-02-26",
         "2027-03-01",
         "2027-03-05",
         "2027-03-08",
@@ -115,20 +114,17 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2026-12-03",
-      "available_count": 8,
+      "first_available": "2026-10-20",
+      "available_count": 5,
       "available_dates": [
-        "2026-12-03",
-        "2026-12-04",
+        "2026-10-20",
         "2026-12-07",
-        "2026-12-08",
         "2026-12-18",
         "2027-01-04",
-        "2027-01-11",
         "2027-01-12"
       ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-09-22T01:46:19.466Z",
+      "last_improved_at": "2026-09-22T17:43:50.274Z",
       "error": null
     },
     {
@@ -213,10 +209,9 @@
       "slug": "construction-lien-motion",
       "uuid": "beb950aa-bf00-4fa3-899b-67729e7e553f",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-motion",
-      "first_available": "2026-10-19",
-      "available_count": 10,
+      "first_available": "2026-10-26",
+      "available_count": 9,
       "available_dates": [
-        "2026-10-19",
         "2026-10-26",
         "2026-11-02",
         "2026-11-09",

@@ -1,5 +1,17 @@
 {
-  "generated_at": "2026-09-22T13:20:14.022Z",
-  "has_changes": false,
-  "changes": []
+  "generated_at": "2026-09-22T17:43:50.274Z",
+  "has_changes": true,
+  "changes": [
+    {
+      "slug": "aj-motion-under-75-virtual",
+      "name": "Associate Judges Motions (75 minutes and under) VIRTUAL",
+      "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
+      "old_first": "2026-12-03",
+      "new_first": "2026-10-20",
+      "improved": true,
+      "added_dates": [
+        "2026-10-20"
+      ]
+    }
+  ]
 }
