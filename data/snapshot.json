@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:51:26.401Z",
+  "generated_at": "2026-09-23T14:51:06.406Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -66,9 +66,10 @@
       "slug": "civil-case-conference",
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "first_available": "2027-03-01",
-      "available_count": 7,
+      "first_available": "2026-09-28",
+      "available_count": 8,
       "available_dates": [
+        "2026-09-28",
         "2027-03-01",
         "2027-03-05",
         "2027-03-08",
@@ -78,7 +79,7 @@
         "2027-03-22"
       ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-09-21T01:29:56.610Z",
+      "last_improved_at": "2026-09-23T14:51:06.406Z",
       "error": null
     },
     {
@@ -113,10 +114,9 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2027-01-04",
-      "available_count": 3,
+      "first_available": "2027-01-25",
+      "available_count": 2,
       "available_dates": [
-        "2027-01-04",
         "2027-01-25",
         "2027-02-02"
       ],
@@ -144,9 +144,11 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-06-23",
-      "available_count": 5,
+      "first_available": "2027-01-18",
+      "available_count": 7,
       "available_dates": [
+        "2027-01-18",
+        "2027-01-19",
         "2027-06-23",
         "2027-06-24",
         "2027-06-25",
@@ -154,7 +156,7 @@
         "2027-06-30"
       ],
       "scanned_through": "2027-06-30",
-      "last_improved_at": "2026-09-21T14:29:06.910Z",
+      "last_improved_at": "2026-09-23T14:51:06.406Z",
       "error": null
     },
     {
