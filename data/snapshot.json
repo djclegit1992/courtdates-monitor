@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:45:23.715Z",
+  "generated_at": "2026-09-23T04:31:31.781Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -114,10 +114,11 @@
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
       "first_available": "2027-01-04",
-      "available_count": 2,
+      "available_count": 3,
       "available_dates": [
         "2027-01-04",
-        "2027-01-12"
+        "2027-01-25",
+        "2027-02-02"
       ],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-09-22T17:43:50.274Z",
@@ -129,10 +130,11 @@
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
       "first_available": "2027-01-19",
-      "available_count": 2,
+      "available_count": 3,
       "available_dates": [
         "2027-01-19",
-        "2027-01-21"
+        "2027-01-21",
+        "2027-01-26"
       ],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-09-22T21:10:42.702Z",
