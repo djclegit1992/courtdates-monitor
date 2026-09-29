@@ -1,40 +1,17 @@
 {
-  "generated_at": "2026-09-29T13:15:12.607Z",
+  "generated_at": "2026-09-29T18:49:25.592Z",
   "has_changes": true,
   "changes": [
     {
-      "slug": "construction-lien-first-tmc",
-      "name": "Construction Lien First Trial Management Conference",
-      "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
-      "old_first": null,
-      "new_first": "2027-01-04",
-      "improved": true,
+      "slug": "civil-case-conference-2",
+      "name": "Civil Case Conference (before a Judge) - Tues,Wed,Thurs",
+      "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
+      "old_first": "2026-10-01",
+      "new_first": "2027-02-18",
+      "improved": false,
       "added_dates": [
-        "2027-01-04",
-        "2027-01-11",
-        "2027-01-18",
-        "2027-01-25",
-        "2027-02-01",
-        "2027-02-08",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-22",
-        "2027-03-01",
-        "2027-03-08",
-        "2027-03-15",
-        "2027-03-22",
-        "2027-03-30",
-        "2027-04-05",
-        "2027-04-12",
-        "2027-04-19",
-        "2027-04-23",
-        "2027-05-03",
-        "2027-05-10",
-        "2027-05-17",
-        "2027-05-31",
-        "2027-06-07",
-        "2027-06-14",
-        "2027-06-21"
+        "2027-02-18",
+        "2027-03-02"
       ]
     }
   ]
