@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:22:53.918Z",
+  "generated_at": "2026-09-30T15:11:56.174Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -147,12 +147,9 @@
       "slug": "aj-motion-under-75-person",
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "first_available": "2027-02-25",
-      "available_count": 2,
-      "available_dates": [
-        "2027-02-25",
-        "2027-03-04"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-06-30",
       "last_improved_at": "2026-09-24T17:29:48.264Z",
       "error": null
@@ -236,11 +233,10 @@
       "uuid": "f48fd73b-ccd4-4f6d-afa7-1b0a247a219e",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
       "first_available": "2027-01-04",
-      "available_count": 25,
+      "available_count": 24,
       "available_dates": [
         "2027-01-04",
         "2027-01-11",
-        "2027-01-18",
         "2027-01-25",
         "2027-02-01",
         "2027-02-08",
