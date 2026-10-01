@@ -1,5 +1,19 @@
 {
-  "generated_at": "2026-10-01T00:07:40.744Z",
-  "has_changes": false,
-  "changes": []
+  "generated_at": "2026-10-01T06:26:09.707Z",
+  "has_changes": true,
+  "changes": [
+    {
+      "slug": "construction-lien-first-tmc",
+      "name": "Construction Lien First Trial Management Conference",
+      "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
+      "old_first": "2027-01-04",
+      "new_first": "2027-01-04",
+      "improved": false,
+      "added_dates": [
+        "2027-07-05",
+        "2027-07-12",
+        "2027-07-19"
+      ]
+    }
+  ]
 }
