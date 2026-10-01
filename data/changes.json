@@ -1,74 +1,35 @@
 {
-  "generated_at": "2026-10-01T19:24:44.795Z",
+  "generated_at": "2026-10-01T23:22:51.178Z",
   "has_changes": true,
   "changes": [
-    {
-      "slug": "cpc",
-      "name": "Civil Practice Court - Courtroom A",
-      "booking_url": "https://calendly.com/toronto-region/cpc",
-      "old_first": "2026-12-08",
-      "new_first": "2026-12-02",
-      "improved": true,
-      "added_dates": [
-        "2026-12-02",
-        "2026-12-09"
-      ]
-    },
-    {
-      "slug": "civil-case-conference",
-      "name": "Civil Case Conference (before a Judge) - Mon, Fri",
-      "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "old_first": "2027-03-05",
-      "new_first": "2027-02-01",
-      "improved": true,
-      "added_dates": [
-        "2027-02-01"
-      ]
-    },
     {
       "slug": "aj-motion-under-75-virtual",
       "name": "Associate Judges Motions (75 minutes and under) VIRTUAL",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "old_first": null,
+      "old_first": "2027-04-01",
       "new_first": "2027-04-01",
-      "improved": true,
+      "improved": false,
       "added_dates": [
-        "2027-04-01",
-        "2027-04-02",
-        "2027-04-09"
+        "2027-04-14",
+        "2027-04-15",
+        "2027-04-16",
+        "2027-04-19",
+        "2027-04-20",
+        "2027-05-12"
       ]
     },
     {
       "slug": "aj-motion-under-75-person",
       "name": "Associate Judges Motions (75 minutes & under) IN PERSON",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "old_first": null,
+      "old_first": "2027-04-09",
       "new_first": "2027-04-09",
-      "improved": true,
+      "improved": false,
       "added_dates": [
-        "2027-04-09"
-      ]
-    },
-    {
-      "slug": "aj-motion-90-120-virtual",
-      "name": "Associate Judges Motions (90 Mins - 120 Mins) VIRTUAL",
-      "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "old_first": null,
-      "new_first": "2027-04-01",
-      "improved": true,
-      "added_dates": [
-        "2027-04-01"
-      ]
-    },
-    {
-      "slug": "express-court",
-      "name": "Express Court (Short Motions before an Associate Judge)",
-      "booking_url": "https://calendly.com/toronto-region/express-court",
-      "old_first": null,
-      "new_first": "2026-12-04",
-      "improved": true,
-      "added_dates": [
-        "2026-12-04"
+        "2027-04-15",
+        "2027-04-16",
+        "2027-04-19",
+        "2027-04-20"
       ]
     }
   ]

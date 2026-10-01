@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:24:44.795Z",
+  "generated_at": "2026-10-01T23:22:51.178Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -135,11 +135,17 @@
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
       "first_available": "2027-04-01",
-      "available_count": 3,
+      "available_count": 9,
       "available_dates": [
         "2027-04-01",
         "2027-04-02",
-        "2027-04-09"
+        "2027-04-09",
+        "2027-04-14",
+        "2027-04-15",
+        "2027-04-16",
+        "2027-04-19",
+        "2027-04-20",
+        "2027-05-12"
       ],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-01T19:24:44.795Z",
@@ -151,9 +157,13 @@
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
       "first_available": "2027-04-09",
-      "available_count": 1,
+      "available_count": 5,
       "available_dates": [
-        "2027-04-09"
+        "2027-04-09",
+        "2027-04-15",
+        "2027-04-16",
+        "2027-04-19",
+        "2027-04-20"
       ],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-01T19:24:44.795Z",
@@ -164,11 +174,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-04-01",
-      "available_count": 1,
-      "available_dates": [
-        "2027-04-01"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-01T19:24:44.795Z",
       "error": null
@@ -193,11 +201,9 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2026-12-04",
-      "available_count": 1,
-      "available_dates": [
-        "2026-12-04"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-01T19:24:44.795Z",
       "error": null
