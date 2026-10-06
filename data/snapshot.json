@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:12:10.514Z",
+  "generated_at": "2026-10-06T21:09:56.490Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -9,10 +9,9 @@
       "slug": "cpc",
       "uuid": "4c149641-d03e-4c57-94a5-62531b5a17b5",
       "booking_url": "https://calendly.com/toronto-region/cpc",
-      "first_available": "2026-12-02",
-      "available_count": 4,
+      "first_available": "2026-12-09",
+      "available_count": 3,
       "available_dates": [
-        "2026-12-02",
         "2026-12-09",
         "2026-12-15",
         "2026-12-16"
@@ -26,10 +25,9 @@
       "slug": "civil-practice-court-1",
       "uuid": "2e75bcf7-0f54-4620-90b6-844fe0698bf2",
       "booking_url": "https://calendly.com/toronto-region/civil-practice-court-1",
-      "first_available": "2026-12-02",
-      "available_count": 5,
+      "first_available": "2026-12-08",
+      "available_count": 4,
       "available_dates": [
-        "2026-12-02",
         "2026-12-08",
         "2026-12-09",
         "2026-12-15",
@@ -62,7 +60,7 @@
       "uuid": "76447372-87d7-4d45-9cba-6e1d9c9f38a9",
       "booking_url": "https://calendly.com/toronto-region/long-trial-scheduling-court",
       "first_available": "2026-10-21",
-      "available_count": 16,
+      "available_count": 15,
       "available_dates": [
         "2026-10-21",
         "2026-10-28",
@@ -70,7 +68,6 @@
         "2026-11-25",
         "2026-12-02",
         "2026-12-09",
-        "2027-01-13",
         "2027-01-20",
         "2027-02-03",
         "2027-02-10",
@@ -125,12 +122,9 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2027-05-04",
-      "available_count": 6,
+      "first_available": "2027-05-13",
+      "available_count": 3,
       "available_dates": [
-        "2027-05-04",
-        "2027-05-06",
-        "2027-05-11",
         "2027-05-13",
         "2027-05-18",
         "2027-05-20"
@@ -208,10 +202,9 @@
       "slug": "construction-lien-motion",
       "uuid": "beb950aa-bf00-4fa3-899b-67729e7e553f",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-motion",
-      "first_available": "2026-11-02",
-      "available_count": 8,
+      "first_available": "2026-11-09",
+      "available_count": 7,
       "available_dates": [
-        "2026-11-02",
         "2026-11-09",
         "2026-11-16",
         "2026-11-23",
