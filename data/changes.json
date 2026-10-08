@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-08T14:50:46.695Z",
+  "generated_at": "2026-10-08T20:38:31.780Z",
   "has_changes": true,
   "changes": [
     {
-      "slug": "aj-motion-under-75-person",
-      "name": "Associate Judges Motions (75 minutes & under) IN PERSON",
-      "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "old_first": "2027-07-02",
-      "new_first": "2027-04-08",
+      "slug": "civil-case-conference-2",
+      "name": "Civil Case Conference (before a Judge) - Tues,Wed,Thurs",
+      "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
+      "old_first": "2027-03-18",
+      "new_first": "2026-10-13",
       "improved": true,
       "added_dates": [
-        "2027-04-08"
+        "2026-10-13"
       ]
     }
   ]
