@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:39:40.618Z",
+  "generated_at": "2026-10-12T19:44:33.578Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -35,10 +35,9 @@
       "slug": "to-be-spoken-to-court",
       "uuid": "45224f46-fe05-4b85-ad55-f6350e61d6f5",
       "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
-      "first_available": "2026-10-26",
-      "available_count": 2,
+      "first_available": "2027-01-11",
+      "available_count": 1,
       "available_dates": [
-        "2026-10-26",
         "2027-01-11"
       ],
       "scanned_through": "2027-07-31",
@@ -93,10 +92,9 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2026-10-15",
-      "available_count": 3,
+      "first_available": "2027-03-18",
+      "available_count": 2,
       "available_dates": [
-        "2026-10-15",
         "2027-03-18",
         "2027-03-25"
       ],
