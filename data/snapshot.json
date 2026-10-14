@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:55:31.876Z",
+  "generated_at": "2026-10-14T21:32:49.739Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -89,11 +89,13 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": null,
-      "available_count": 0,
-      "available_dates": [],
+      "first_available": "2027-03-23",
+      "available_count": 1,
+      "available_dates": [
+        "2027-03-23"
+      ],
       "scanned_through": "2027-07-31",
-      "last_improved_at": "2026-10-10T00:16:19.619Z",
+      "last_improved_at": "2026-10-14T21:32:49.739Z",
       "error": null
     },
     {
@@ -101,10 +103,9 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2027-07-22",
-      "available_count": 7,
+      "first_available": "2027-07-23",
+      "available_count": 6,
       "available_dates": [
-        "2027-07-22",
         "2027-07-23",
         "2027-07-26",
         "2027-07-27",
@@ -133,11 +134,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-07-27",
-      "available_count": 4,
+      "first_available": "2027-07-29",
+      "available_count": 2,
       "available_dates": [
-        "2027-07-27",
-        "2027-07-28",
         "2027-07-29",
         "2027-07-30"
       ],
