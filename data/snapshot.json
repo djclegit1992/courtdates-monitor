@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:56:26.601Z",
+  "generated_at": "2026-10-14T01:05:44.981Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -34,11 +34,10 @@
       "uuid": "45224f46-fe05-4b85-ad55-f6350e61d6f5",
       "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
       "first_available": "2026-10-26",
-      "available_count": 3,
+      "available_count": 2,
       "available_dates": [
         "2026-10-26",
-        "2026-11-02",
-        "2027-01-11"
+        "2026-11-02"
       ],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-13T17:05:17.434Z",
