@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:20:39.054Z",
+  "generated_at": "2026-10-15T22:38:00.140Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -127,14 +127,15 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-07-29",
-      "available_count": 2,
+      "first_available": "2027-05-26",
+      "available_count": 3,
       "available_dates": [
+        "2027-05-26",
         "2027-07-29",
         "2027-07-30"
       ],
       "scanned_through": "2027-07-31",
-      "last_improved_at": "2026-10-15T15:17:21.419Z",
+      "last_improved_at": "2026-10-15T22:38:00.140Z",
       "error": null
     },
     {
@@ -156,12 +157,9 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2026-12-07",
-      "available_count": 2,
-      "available_dates": [
-        "2026-12-07",
-        "2026-12-08"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-15T19:20:39.054Z",
       "error": null
@@ -204,13 +202,12 @@
       "uuid": "f48fd73b-ccd4-4f6d-afa7-1b0a247a219e",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
       "first_available": "2026-12-07",
-      "available_count": 28,
+      "available_count": 27,
       "available_dates": [
         "2026-12-07",
         "2026-12-21",
         "2027-01-04",
         "2027-01-11",
-        "2027-01-25",
         "2027-02-01",
         "2027-02-08",
         "2027-02-16",
