@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:40:47.287Z",
+  "generated_at": "2026-10-16T22:44:10.557Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -50,13 +50,12 @@
       "uuid": "76447372-87d7-4d45-9cba-6e1d9c9f38a9",
       "booking_url": "https://calendly.com/toronto-region/long-trial-scheduling-court",
       "first_available": "2026-11-18",
-      "available_count": 11,
+      "available_count": 10,
       "available_dates": [
         "2026-11-18",
         "2026-11-25",
         "2026-12-02",
         "2026-12-09",
-        "2027-01-20",
         "2027-02-17",
         "2027-02-24",
         "2027-03-03",
@@ -73,11 +72,13 @@
       "slug": "civil-case-conference",
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "first_available": null,
-      "available_count": 0,
-      "available_dates": [],
+      "first_available": "2026-10-23",
+      "available_count": 1,
+      "available_dates": [
+        "2026-10-23"
+      ],
       "scanned_through": "2027-07-31",
-      "last_improved_at": "2026-10-07T14:41:52.264Z",
+      "last_improved_at": "2026-10-16T22:44:10.557Z",
       "error": null
     },
     {
@@ -99,11 +100,9 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2027-07-30",
-      "available_count": 1,
-      "available_dates": [
-        "2027-07-30"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-09T20:17:34.908Z",
       "error": null
@@ -125,10 +124,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-07-29",
-      "available_count": 2,
+      "first_available": "2027-07-30",
+      "available_count": 1,
       "available_dates": [
-        "2027-07-29",
         "2027-07-30"
       ],
       "scanned_through": "2027-07-31",
