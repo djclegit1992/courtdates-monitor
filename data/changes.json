@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-10-15T22:38:00.140Z",
+  "generated_at": "2026-10-16T01:08:46.378Z",
   "has_changes": true,
   "changes": [
     {
-      "slug": "aj-motion-90-120-virtual",
-      "name": "Associate Judges Motions (90 Mins - 120 Mins) VIRTUAL",
-      "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "old_first": "2027-07-29",
-      "new_first": "2027-05-26",
+      "slug": "express-court",
+      "name": "Express Court (Short Motions before an Associate Judge)",
+      "booking_url": "https://calendly.com/toronto-region/express-court",
+      "old_first": null,
+      "new_first": "2027-01-06",
       "improved": true,
       "added_dates": [
-        "2027-05-26"
+        "2027-01-06",
+        "2027-01-13",
+        "2027-01-18",
+        "2027-01-19",
+        "2027-01-25",
+        "2027-01-27",
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-17",
+        "2027-02-19",
+        "2027-02-23",
+        "2027-02-25"
       ]
     }
   ]
