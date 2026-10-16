@@ -1,35 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:16:46.748Z",
-  "has_changes": true,
-  "changes": [
-    {
-      "slug": "aj-remove-solicitor",
-      "name": "Removal of Solicitor Motions (Associate Judge)",
-      "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "old_first": null,
-      "new_first": "2027-01-04",
-      "improved": true,
-      "added_dates": [
-        "2027-01-04",
-        "2027-01-05",
-        "2027-01-07",
-        "2027-01-08",
-        "2027-01-11",
-        "2027-01-13",
-        "2027-01-15",
-        "2027-01-20",
-        "2027-01-21",
-        "2027-02-01",
-        "2027-02-02",
-        "2027-02-03",
-        "2027-02-04",
-        "2027-02-08",
-        "2027-02-11",
-        "2027-02-17",
-        "2027-02-23",
-        "2027-02-24",
-        "2027-02-25"
-      ]
-    }
-  ]
+  "generated_at": "2026-10-16T11:49:16.031Z",
+  "has_changes": false,
+  "changes": []
 }
