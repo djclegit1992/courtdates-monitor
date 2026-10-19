@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:08:57.368Z",
+  "generated_at": "2026-10-19T17:41:50.302Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -33,10 +33,9 @@
       "slug": "to-be-spoken-to-court",
       "uuid": "45224f46-fe05-4b85-ad55-f6350e61d6f5",
       "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
-      "first_available": "2026-10-26",
-      "available_count": 3,
+      "first_available": "2027-01-18",
+      "available_count": 2,
       "available_dates": [
-        "2026-10-26",
         "2027-01-18",
         "2027-01-25"
       ],
@@ -84,11 +83,9 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2027-03-31",
-      "available_count": 1,
-      "available_dates": [
-        "2027-03-31"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-17T14:21:33.809Z",
       "error": null
@@ -122,11 +119,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-07-30",
-      "available_count": 1,
-      "available_dates": [
-        "2027-07-30"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-15T22:38:00.140Z",
       "error": null
@@ -207,12 +202,11 @@
       "uuid": "beb950aa-bf00-4fa3-899b-67729e7e553f",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-motion",
       "first_available": "2026-11-09",
-      "available_count": 7,
+      "available_count": 6,
       "available_dates": [
         "2026-11-09",
         "2026-11-16",
         "2026-11-23",
-        "2026-11-30",
         "2026-12-07",
         "2026-12-14",
         "2026-12-21"
