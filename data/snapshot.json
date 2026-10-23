@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:25:49.942Z",
+  "generated_at": "2026-10-23T15:51:41.347Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -9,11 +9,13 @@
       "slug": "cpc",
       "uuid": "4c149641-d03e-4c57-94a5-62531b5a17b5",
       "booking_url": "https://calendly.com/toronto-region/cpc",
-      "first_available": null,
-      "available_count": 0,
-      "available_dates": [],
+      "first_available": "2026-11-03",
+      "available_count": 1,
+      "available_dates": [
+        "2026-11-03"
+      ],
       "scanned_through": "2027-07-31",
-      "last_improved_at": "2026-10-22T18:07:51.068Z",
+      "last_improved_at": "2026-10-23T15:51:41.347Z",
       "error": null
     },
     {
@@ -21,11 +23,9 @@
       "slug": "civil-practice-court-1",
       "uuid": "2e75bcf7-0f54-4620-90b6-844fe0698bf2",
       "booking_url": "https://calendly.com/toronto-region/civil-practice-court-1",
-      "first_available": "2026-10-27",
-      "available_count": 1,
-      "available_dates": [
-        "2026-10-27"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-07-31",
       "last_improved_at": "2026-10-22T18:07:51.068Z",
       "error": null
