@@ -1,17 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:51:41.347Z",
-  "has_changes": true,
-  "changes": [
-    {
-      "slug": "cpc",
-      "name": "Civil Practice Court - Courtroom A",
-      "booking_url": "https://calendly.com/toronto-region/cpc",
-      "old_first": null,
-      "new_first": "2026-11-03",
-      "improved": true,
-      "added_dates": [
-        "2026-11-03"
-      ]
-    }
-  ]
+  "generated_at": "2026-10-23T19:54:18.072Z",
+  "has_changes": false,
+  "changes": []
 }
