@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:41:22.317Z",
+  "generated_at": "2026-10-26T15:05:21.428Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -33,10 +33,9 @@
       "slug": "to-be-spoken-to-court",
       "uuid": "45224f46-fe05-4b85-ad55-f6350e61d6f5",
       "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
-      "first_available": "2026-11-02",
-      "available_count": 3,
+      "first_available": "2027-01-18",
+      "available_count": 2,
       "available_dates": [
-        "2026-11-02",
         "2027-01-18",
         "2027-01-25"
       ],
@@ -189,9 +188,10 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2027-01-25",
-      "available_count": 9,
+      "first_available": "2026-12-07",
+      "available_count": 10,
       "available_dates": [
+        "2026-12-07",
         "2027-01-25",
         "2027-01-27",
         "2027-02-03",
@@ -203,7 +203,7 @@
         "2027-02-25"
       ],
       "scanned_through": "2027-07-31",
-      "last_improved_at": "2026-10-16T01:08:46.378Z",
+      "last_improved_at": "2026-10-26T15:05:21.428Z",
       "error": null
     },
     {
@@ -211,9 +211,10 @@
       "slug": "aj-remove-solicitor",
       "uuid": "b81d2799-ac7e-4738-abd0-ced5a45833c4",
       "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
-      "first_available": "2027-01-08",
-      "available_count": 16,
+      "first_available": "2026-12-09",
+      "available_count": 17,
       "available_dates": [
+        "2026-12-09",
         "2027-01-08",
         "2027-01-11",
         "2027-01-13",
@@ -232,7 +233,7 @@
         "2027-02-25"
       ],
       "scanned_through": "2027-07-31",
-      "last_improved_at": "2026-10-20T17:27:46.987Z",
+      "last_improved_at": "2026-10-26T15:05:21.428Z",
       "error": null
     },
     {
