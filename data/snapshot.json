@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T08:27:53.479Z",
+  "generated_at": "2026-10-30T15:16:11.256Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -9,10 +9,9 @@
       "slug": "cpc",
       "uuid": "4c149641-d03e-4c57-94a5-62531b5a17b5",
       "booking_url": "https://calendly.com/toronto-region/cpc",
-      "first_available": "2027-01-19",
-      "available_count": 4,
+      "first_available": "2027-01-20",
+      "available_count": 3,
       "available_dates": [
-        "2027-01-19",
         "2027-01-20",
         "2027-01-26",
         "2027-01-27"
@@ -63,14 +62,13 @@
       "uuid": "76447372-87d7-4d45-9cba-6e1d9c9f38a9",
       "booking_url": "https://calendly.com/toronto-region/long-trial-scheduling-court",
       "first_available": "2026-11-18",
-      "available_count": 10,
+      "available_count": 9,
       "available_dates": [
         "2026-11-18",
         "2026-11-25",
         "2026-12-02",
         "2026-12-09",
         "2027-02-17",
-        "2027-02-24",
         "2027-03-03",
         "2027-03-10",
         "2027-03-17",
@@ -196,10 +194,9 @@
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
       "first_available": "2027-01-25",
-      "available_count": 9,
+      "available_count": 8,
       "available_dates": [
         "2027-01-25",
-        "2027-01-27",
         "2027-02-03",
         "2027-02-04",
         "2027-02-11",
