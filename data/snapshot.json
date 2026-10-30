@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T21:43:12.819Z",
+  "generated_at": "2026-10-30T01:48:41.602Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -135,10 +135,9 @@
       "slug": "aj-motion-under-75-person",
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "first_available": "2027-04-22",
-      "available_count": 18,
+      "first_available": "2027-04-27",
+      "available_count": 17,
       "available_dates": [
-        "2027-04-22",
         "2027-04-27",
         "2027-04-29",
         "2027-05-04",
