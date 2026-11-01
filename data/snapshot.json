@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:37:18.853Z",
+  "generated_at": "2026-11-01T05:44:50.267Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -16,7 +16,7 @@
         "2027-01-26",
         "2027-01-27"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-26T20:42:16.655Z",
       "error": null
     },
@@ -37,7 +37,7 @@
         "2027-01-26",
         "2027-01-27"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-26T20:42:16.655Z",
       "error": null
     },
@@ -52,7 +52,7 @@
         "2027-01-18",
         "2027-01-25"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-20T17:27:46.987Z",
       "error": null
     },
@@ -74,7 +74,7 @@
         "2027-03-17",
         "2027-03-24"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-09-24T20:44:35.764Z",
       "error": null
     },
@@ -86,7 +86,7 @@
       "first_available": null,
       "available_count": 0,
       "available_dates": [],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-16T22:44:10.557Z",
       "error": null
     },
@@ -98,7 +98,7 @@
       "first_available": null,
       "available_count": 0,
       "available_dates": [],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-29T16:50:18.425Z",
       "error": null
     },
@@ -108,7 +108,7 @@
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
       "first_available": "2027-06-11",
-      "available_count": 12,
+      "available_count": 30,
       "available_dates": [
         "2027-06-11",
         "2027-06-14",
@@ -121,9 +121,27 @@
         "2027-06-23",
         "2027-06-25",
         "2027-06-29",
-        "2027-06-30"
+        "2027-06-30",
+        "2027-08-06",
+        "2027-08-09",
+        "2027-08-10",
+        "2027-08-11",
+        "2027-08-12",
+        "2027-08-13",
+        "2027-08-16",
+        "2027-08-17",
+        "2027-08-18",
+        "2027-08-19",
+        "2027-08-20",
+        "2027-08-23",
+        "2027-08-24",
+        "2027-08-25",
+        "2027-08-26",
+        "2027-08-27",
+        "2027-08-30",
+        "2027-08-31"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-21T19:30:48.886Z",
       "error": null
     },
@@ -152,7 +170,7 @@
         "2027-06-24",
         "2027-06-29"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-21T15:00:57.086Z",
       "error": null
     },
@@ -164,7 +182,7 @@
       "first_available": null,
       "available_count": 0,
       "available_dates": [],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-26T20:42:16.655Z",
       "error": null
     },
@@ -176,7 +194,7 @@
       "first_available": null,
       "available_count": 0,
       "available_dates": [],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-28T00:23:41.268Z",
       "error": null
     },
@@ -197,7 +215,7 @@
         "2027-02-23",
         "2027-02-25"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-26T15:05:21.428Z",
       "error": null
     },
@@ -224,7 +242,7 @@
         "2027-02-24",
         "2027-02-25"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-26T15:05:21.428Z",
       "error": null
     },
@@ -242,7 +260,7 @@
         "2026-12-14",
         "2026-12-21"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-07-11T16:43:59.057Z",
       "error": null
     },
@@ -252,7 +270,7 @@
       "uuid": "f48fd73b-ccd4-4f6d-afa7-1b0a247a219e",
       "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
       "first_available": "2026-12-07",
-      "available_count": 26,
+      "available_count": 31,
       "available_dates": [
         "2026-12-07",
         "2026-12-21",
@@ -279,9 +297,14 @@
         "2027-06-21",
         "2027-07-05",
         "2027-07-12",
-        "2027-07-19"
+        "2027-07-19",
+        "2027-08-03",
+        "2027-08-06",
+        "2027-08-09",
+        "2027-08-16",
+        "2027-08-30"
       ],
-      "scanned_through": "2027-07-31",
+      "scanned_through": "2027-08-31",
       "last_improved_at": "2026-10-01T13:48:46.209Z",
       "error": null
     }
