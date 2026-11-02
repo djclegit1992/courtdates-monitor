@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:41:18.542Z",
+  "generated_at": "2026-11-02T02:17:45.718Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -62,13 +62,12 @@
       "uuid": "76447372-87d7-4d45-9cba-6e1d9c9f38a9",
       "booking_url": "https://calendly.com/toronto-region/long-trial-scheduling-court",
       "first_available": "2026-11-18",
-      "available_count": 9,
+      "available_count": 8,
       "available_dates": [
         "2026-11-18",
         "2026-11-25",
         "2026-12-02",
         "2026-12-09",
-        "2027-02-17",
         "2027-03-03",
         "2027-03-10",
         "2027-03-17",
@@ -83,11 +82,13 @@
       "slug": "civil-case-conference",
       "uuid": "e64fa276-1d5d-4d8b-8ede-ad4fa54d3cd0",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "first_available": null,
-      "available_count": 0,
-      "available_dates": [],
+      "first_available": "2027-01-04",
+      "available_count": 1,
+      "available_dates": [
+        "2027-01-04"
+      ],
       "scanned_through": "2027-08-31",
-      "last_improved_at": "2026-10-16T22:44:10.557Z",
+      "last_improved_at": "2026-11-02T02:17:45.718Z",
       "error": null
     },
     {
