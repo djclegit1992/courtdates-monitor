@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:11:13.053Z",
+  "generated_at": "2026-11-03T02:34:13.222Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -24,11 +24,10 @@
       "uuid": "2e75bcf7-0f54-4620-90b6-844fe0698bf2",
       "booking_url": "https://calendly.com/toronto-region/civil-practice-court-1",
       "first_available": "2027-01-19",
-      "available_count": 4,
+      "available_count": 3,
       "available_dates": [
         "2027-01-19",
         "2027-01-20",
-        "2027-01-26",
         "2027-01-27"
       ],
       "scanned_through": "2027-08-31",
@@ -171,10 +170,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-05-10",
-      "available_count": 11,
+      "first_available": "2027-05-11",
+      "available_count": 10,
       "available_dates": [
-        "2027-05-10",
         "2027-05-11",
         "2027-05-12",
         "2027-05-13",
