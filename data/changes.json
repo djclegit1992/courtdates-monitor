@@ -1,5 +1,28 @@
 {
-  "generated_at": "2026-11-03T18:20:15.871Z",
-  "has_changes": false,
-  "changes": []
+  "generated_at": "2026-11-03T23:36:09.664Z",
+  "has_changes": true,
+  "changes": [
+    {
+      "slug": "aj-motion-under-75-virtual",
+      "name": "Associate Judges Motions (75 minutes and under) VIRTUAL",
+      "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
+      "old_first": "2027-06-15",
+      "new_first": "2027-06-16",
+      "improved": false,
+      "added_dates": [
+        "2027-07-15"
+      ]
+    },
+    {
+      "slug": "aj-remove-solicitor",
+      "name": "Removal of Solicitor Motions (Associate Judge)",
+      "booking_url": "https://calendly.com/toronto-region/aj-remove-solicitor",
+      "old_first": "2027-01-06",
+      "new_first": "2026-12-10",
+      "improved": true,
+      "added_dates": [
+        "2026-12-10"
+      ]
+    }
+  ]
 }
