@@ -1,28 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:38:08.487Z",
-  "has_changes": true,
-  "changes": [
-    {
-      "slug": "long-trial-scheduling-court",
-      "name": "Long Trial Scheduling Court",
-      "booking_url": "https://calendly.com/toronto-region/long-trial-scheduling-court",
-      "old_first": "2026-11-25",
-      "new_first": "2026-11-25",
-      "improved": false,
-      "added_dates": [
-        "2027-02-17"
-      ]
-    },
-    {
-      "slug": "civil-case-conference-2",
-      "name": "Civil Case Conference (before a Judge) - Tues,Wed,Thurs",
-      "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "old_first": "2026-11-10",
-      "new_first": "2026-11-10",
-      "improved": false,
-      "added_dates": [
-        "2027-04-06"
-      ]
-    }
-  ]
+  "generated_at": "2026-11-06T03:20:02.186Z",
+  "has_changes": false,
+  "changes": []
 }
