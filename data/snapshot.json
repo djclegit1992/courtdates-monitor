@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:24:07.928Z",
+  "generated_at": "2026-11-06T18:18:29.486Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -33,13 +33,15 @@
       "slug": "to-be-spoken-to-court",
       "uuid": "45224f46-fe05-4b85-ad55-f6350e61d6f5",
       "booking_url": "https://calendly.com/toronto-region/to-be-spoken-to-court",
-      "first_available": "2027-01-25",
-      "available_count": 1,
+      "first_available": "2026-11-16",
+      "available_count": 3,
       "available_dates": [
+        "2026-11-16",
+        "2027-01-18",
         "2027-01-25"
       ],
       "scanned_through": "2027-08-31",
-      "last_improved_at": "2026-10-20T17:27:46.987Z",
+      "last_improved_at": "2026-11-06T18:18:29.486Z",
       "error": null
     },
     {
@@ -178,10 +180,9 @@
       "slug": "aj-motion-under-75-virtual",
       "uuid": "f24d40e9-39c1-47f8-9a23-3c825a7d7985",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
-      "first_available": "2027-06-22",
-      "available_count": 24,
+      "first_available": "2027-06-23",
+      "available_count": 23,
       "available_dates": [
-        "2027-06-22",
         "2027-06-23",
         "2027-06-25",
         "2027-06-29",
@@ -257,12 +258,9 @@
       "slug": "aj-motion-90-120-virtual",
       "uuid": "bce11477-ff14-45b4-93ca-e13136c66892",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-90-120-virtual",
-      "first_available": "2027-06-10",
-      "available_count": 2,
-      "available_dates": [
-        "2027-06-10",
-        "2027-06-23"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-08-31",
       "last_improved_at": "2026-11-02T20:11:13.053Z",
       "error": null
