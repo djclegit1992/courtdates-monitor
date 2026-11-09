@@ -1,5 +1,34 @@
 {
-  "generated_at": "2026-11-09T11:16:03.932Z",
-  "has_changes": false,
-  "changes": []
+  "generated_at": "2026-11-09T21:36:09.545Z",
+  "has_changes": true,
+  "changes": [
+    {
+      "slug": "construction-lien-motion",
+      "name": "Construction Lien Short Motion before an AJ",
+      "booking_url": "https://calendly.com/toronto-region/construction-lien-motion",
+      "old_first": "2026-11-23",
+      "new_first": "2026-12-07",
+      "improved": false,
+      "added_dates": [
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-08",
+        "2027-02-16",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-22",
+        "2027-03-30",
+        "2027-04-12",
+        "2027-04-19",
+        "2027-04-26",
+        "2027-05-03",
+        "2027-05-17",
+        "2027-05-31",
+        "2027-06-07",
+        "2027-06-21",
+        "2027-07-19"
+      ]
+    }
+  ]
 }
