@@ -1,27 +1,21 @@
 {
-  "generated_at": "2026-11-10T20:24:02.745Z",
+  "generated_at": "2026-11-11T00:49:32.072Z",
   "has_changes": true,
   "changes": [
     {
-      "slug": "long-trial-scheduling-court",
-      "name": "Long Trial Scheduling Court",
-      "booking_url": "https://calendly.com/toronto-region/long-trial-scheduling-court",
-      "old_first": "2026-12-02",
-      "new_first": "2026-12-02",
+      "slug": "construction-lien-motion",
+      "name": "Construction Lien Short Motion before an AJ",
+      "booking_url": "https://calendly.com/toronto-region/construction-lien-motion",
+      "old_first": "2026-12-07",
+      "new_first": "2026-12-07",
       "improved": false,
       "added_dates": [
-        "2027-01-20"
-      ]
-    },
-    {
-      "slug": "express-court",
-      "name": "Express Court (Short Motions before an Associate Judge)",
-      "booking_url": "https://calendly.com/toronto-region/express-court",
-      "old_first": "2027-02-11",
-      "new_first": "2026-12-07",
-      "improved": true,
-      "added_dates": [
-        "2026-12-07"
+        "2027-02-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-05-10",
+        "2027-06-14",
+        "2027-06-28"
       ]
     }
   ]
