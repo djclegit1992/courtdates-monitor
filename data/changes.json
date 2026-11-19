@@ -1,5 +1,42 @@
 {
-  "generated_at": "2026-11-18T19:20:15.754Z",
-  "has_changes": false,
-  "changes": []
+  "generated_at": "2026-11-19T01:24:46.327Z",
+  "has_changes": true,
+  "changes": [
+    {
+      "slug": "cpc",
+      "name": "Civil Practice Court - Courtroom A",
+      "booking_url": "https://calendly.com/toronto-region/cpc",
+      "old_first": null,
+      "new_first": "2027-02-02",
+      "improved": true,
+      "added_dates": [
+        "2027-02-02",
+        "2027-02-03",
+        "2027-02-09",
+        "2027-02-10",
+        "2027-02-16",
+        "2027-02-17",
+        "2027-02-23",
+        "2027-02-24"
+      ]
+    },
+    {
+      "slug": "civil-practice-court-1",
+      "name": "Civil Practice Court - Courtroom B",
+      "booking_url": "https://calendly.com/toronto-region/civil-practice-court-1",
+      "old_first": null,
+      "new_first": "2027-02-02",
+      "improved": true,
+      "added_dates": [
+        "2027-02-02",
+        "2027-02-03",
+        "2027-02-09",
+        "2027-02-10",
+        "2027-02-16",
+        "2027-02-17",
+        "2027-02-23",
+        "2027-02-24"
+      ]
+    }
+  ]
 }
