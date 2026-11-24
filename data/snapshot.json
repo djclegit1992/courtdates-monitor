@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:25:17.270Z",
+  "generated_at": "2026-11-24T01:50:06.446Z",
   "profile": "toronto-region",
   "timezone": "America/Toronto",
   "horizon_months": 10,
@@ -9,11 +9,9 @@
       "slug": "cpc",
       "uuid": "4c149641-d03e-4c57-94a5-62531b5a17b5",
       "booking_url": "https://calendly.com/toronto-region/cpc",
-      "first_available": "2027-02-09",
-      "available_count": 6,
+      "first_available": "2027-02-16",
+      "available_count": 4,
       "available_dates": [
-        "2027-02-09",
-        "2027-02-10",
         "2027-02-16",
         "2027-02-17",
         "2027-02-23",
@@ -28,12 +26,10 @@
       "slug": "civil-practice-court-1",
       "uuid": "2e75bcf7-0f54-4620-90b6-844fe0698bf2",
       "booking_url": "https://calendly.com/toronto-region/civil-practice-court-1",
-      "first_available": "2027-02-03",
-      "available_count": 7,
+      "first_available": "2027-02-09",
+      "available_count": 5,
       "available_dates": [
-        "2027-02-03",
         "2027-02-09",
-        "2027-02-10",
         "2027-02-16",
         "2027-02-17",
         "2027-02-23",
@@ -123,9 +119,11 @@
       "slug": "civil-case-conference-2",
       "uuid": "453916c5-8d4f-4b5f-bd45-3a4fe27dc4ba",
       "booking_url": "https://calendly.com/toronto-region/civil-case-conference-2",
-      "first_available": "2027-04-06",
-      "available_count": 48,
+      "first_available": "2026-11-25",
+      "available_count": 50,
       "available_dates": [
+        "2026-11-25",
+        "2026-11-26",
         "2027-04-06",
         "2027-04-07",
         "2027-04-08",
@@ -176,7 +174,7 @@
         "2027-07-29"
       ],
       "scanned_through": "2027-08-31",
-      "last_improved_at": "2026-11-05T16:41:57.400Z",
+      "last_improved_at": "2026-11-24T01:50:06.446Z",
       "error": null
     },
     {
@@ -202,10 +200,9 @@
       "slug": "aj-motion-under-75-person",
       "uuid": "ce00b3ad-b758-496a-86e0-e35706f86bb6",
       "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-person",
-      "first_available": "2027-06-29",
-      "available_count": 18,
+      "first_available": "2027-07-06",
+      "available_count": 17,
       "available_dates": [
-        "2027-06-29",
         "2027-07-06",
         "2027-07-08",
         "2027-07-13",
@@ -257,12 +254,9 @@
       "slug": "express-court",
       "uuid": "1bff52db-5fc9-4723-bb78-0ab57ad3cb0b",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "first_available": "2027-01-05",
-      "available_count": 2,
-      "available_dates": [
-        "2027-01-05",
-        "2027-01-06"
-      ],
+      "first_available": null,
+      "available_count": 0,
+      "available_dates": [],
       "scanned_through": "2027-08-31",
       "last_improved_at": "2026-11-20T23:56:13.042Z",
       "error": null
