@@ -1,39 +1,27 @@
 {
-  "generated_at": "2026-11-26T00:11:56.658Z",
+  "generated_at": "2026-11-26T08:48:53.138Z",
   "has_changes": true,
   "changes": [
     {
-      "slug": "civil-case-conference",
-      "name": "Civil Case Conference (before a Judge) - Mon, Fri",
-      "booking_url": "https://calendly.com/toronto-region/civil-case-conference",
-      "old_first": "2027-03-19",
-      "new_first": "2026-11-30",
+      "slug": "aj-motion-under-75-virtual",
+      "name": "Associate Judges Motions (75 minutes and under) VIRTUAL",
+      "booking_url": "https://calendly.com/toronto-region/aj-motion-under-75-virtual",
+      "old_first": "2027-08-30",
+      "new_first": "2027-01-04",
       "improved": true,
       "added_dates": [
-        "2026-11-30"
+        "2027-01-04"
       ]
     },
     {
       "slug": "express-court",
       "name": "Express Court (Short Motions before an Associate Judge)",
       "booking_url": "https://calendly.com/toronto-region/express-court",
-      "old_first": null,
+      "old_first": "2027-01-13",
       "new_first": "2027-01-13",
-      "improved": true,
-      "added_dates": [
-        "2027-01-13",
-        "2027-01-18"
-      ]
-    },
-    {
-      "slug": "construction-lien-first-tmc",
-      "name": "Construction Lien First Trial Management Conference",
-      "booking_url": "https://calendly.com/toronto-region/construction-lien-first-tmc",
-      "old_first": "2026-12-21",
-      "new_first": "2026-12-21",
       "improved": false,
       "added_dates": [
-        "2027-02-09"
+        "2027-01-27"
       ]
     }
   ]
